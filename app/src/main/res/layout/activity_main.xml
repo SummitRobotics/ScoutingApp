@@ -8,4 +8,8 @@
     tools:context="com.summitrobotics.testapp.MainActivity">
 
 
+    <ListView
+        android:id="@+id/matchListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 </LinearLayout>
